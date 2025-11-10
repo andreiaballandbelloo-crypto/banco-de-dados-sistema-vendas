@@ -1,0 +1,11 @@
+id_produto,nome_produto,categoria,preco
+1,Notebook,Eletrônicos,3500.0
+2,Mouse Gamer,Acessórios,150.0
+3,Cadeira Office,Móveis,900.0
+4,Teclado Mecânico,Acessórios,280.0
+5,Monitor 24'',Eletrônicos,1200.0
+6,Headset,Acessórios,320.0
+7,Smartphone,Eletrônicos,2500.0
+8,Impressora,Eletrônicos,800.0
+9,Webcam HD,Acessórios,200.0
+10,Mesa Gamer,Móveis,1100.0
